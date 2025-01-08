@@ -49,4 +49,4 @@ Replace the following values in your DocleChat component:
 
 ## 📚 Documentation
 
-For more details about Docle Chat configuration options, visit [Docle's documentation](https://docle.dev).
+For more details about Docle Chat configuration options, visit [Docle's documentation](https://docle.co).

@@ -23,7 +23,7 @@ All examples require the following configuration:
 
 ## 📚 Documentation
 
-For detailed configuration options and API reference, visit [Docle's documentation](https://docle.dev).
+For detailed configuration options and API reference, visit [Docle's documentation](https://docle.co).
 
 ## 🤝 Contributing
 
